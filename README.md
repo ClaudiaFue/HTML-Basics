@@ -18,16 +18,10 @@ This is an example of what the tag will look like in the editor along with what 
 
 
 ## Paragraph
+This is an example of what the tag would look like in HTML Code and how it would appear in the website. Although there are other tags similiar to the paragraph tags that work similarly like Line Breaks.
 
-![Public Domain](paragraphCode.png)
+![Public Domain](https://i.ytimg.com/vi/3_5cFP5OSDA/maxresdefault.jpg)
 
-The :arrow_double_up: is an example of what the tag will look like in the editor.
-
-![Public Domain](paragraphResult.png)
-
-This :arrow_double_up: is the outcome of the code being ran. 
-
-##### There are many more tags that can be used in HTML
 
 ## Links
 
