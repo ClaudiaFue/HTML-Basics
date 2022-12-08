@@ -31,5 +31,5 @@ This is an example on what the HTML code would look like if you are trying to us
 + [Introduction](https://github.com/ClaudiaFue/1610-Final-Project.git)
 + [What is HTML?](https://github.com/ClaudiaFue/What-Is-HTML.git)
 + Basic HTML Code
-+ [Examples]
++ [HTML Examples](https://github.com/ClaudiaFue/HTML-Examples.git)
 
