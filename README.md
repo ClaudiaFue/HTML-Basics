@@ -24,11 +24,12 @@ This is an example of what the tag would look like in HTML Code and how it would
 
 
 ## Links
+This is an example on what the HTML code would look like if you are trying to use a link to a different website. This image shows what a hyperlink would look like in a normal HTML document in an editor and to what the browser had process what it would look like.
 
-![Public Domain](linkCode.png)
+![Public Domain](https://www.dummies.com/wp-content/uploads/188249.image0.jpg)
 
-The :arrow_double_up: is an example of what the tag will look like in the editor.
++ [Introduction](https://github.com/ClaudiaFue/1610-Final-Project.git)
++ [What is HTML?](https://github.com/ClaudiaFue/What-Is-HTML.git)
++ Basic HTML Code
++ [Examples]
 
-![Public Domain](linkResults.png)
-
-This :arrow_double_up: is the outcome of the code being ran. 
